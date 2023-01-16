@@ -1,0 +1,18 @@
+@import url(./reset.css);
+@import url(./home.css);
+@import url(./consultas.css);
+@import url(./botoes.css);
+
+body{
+  background: var(--fundo);
+}
+
+strong{
+  color: var(--texto);
+}
+
+main{
+  display: flex;
+  flex-direction: column;
+  padding: 0 1rem;
+}

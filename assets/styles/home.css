@@ -1,0 +1,22 @@
+section.home{
+  display: flex;
+  align-items: center;
+  height: 6.875rem;
+}
+
+.home>img{
+  border-radius: 50%;
+  width: 3.75rem;
+  height: 3.75rem;
+  margin-right: 1rem;
+}
+
+.home .home__info strong{
+  font-size: 1.375rem;
+}
+
+.home .home__info p{
+  font-size: 0.875rem;
+  font-weight: 400;
+  color: var(--texto-claro);
+}
