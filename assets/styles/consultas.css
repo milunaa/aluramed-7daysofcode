@@ -1,3 +1,9 @@
+.consultas{
+  padding: 0 1rem;
+  height: calc(100vh - 110px - 58px);
+  overflow: scroll;
+}
+
 .consultas__data{
   display: flex;
   align-items: center;

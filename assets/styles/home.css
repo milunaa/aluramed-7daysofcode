@@ -2,6 +2,7 @@ section.home{
   display: flex;
   align-items: center;
   height: 6.875rem;
+  padding: 0 1rem;
 }
 
 .home>img{
